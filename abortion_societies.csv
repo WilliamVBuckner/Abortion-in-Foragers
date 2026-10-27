@@ -1,0 +1,40 @@
+society,owc,sccs,tip,region,latitude,longitude,focal_year,evidence,abortion,practice,physical,substance,ritual,unmarried,adultery,spacing,support,death,harm,secrecy,disapproval,specialist,foetus,coercion,change,conflict,n_paragraphs,n_abortion,n_other,n_documents,fixity_sccs150,weaning_sccs45,starvation_sccs1263,polygyny_sccs872,femcontrib_sccs826,premarital_sccs282,transactions_sccs208,frayser_approval_sccs954,frayser_reason_sccs955,evidence_focal,n_other_focal
+Abipón,SI04,SCCS183,Abipon,South America,-28.0,-59.5,1750,practice,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,3,2,1,1,1,5.0,3.0,10.0,25.0,2.0,1,2.0,2.0,practice,1
+Ainu,AB06,SCCS118,Ainu,Asia,42.83,143.0,1880,practice,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,0,1,0,10,7,3,1,3,7.0,1.0,2.0,38.0,6.0,6,,,none,0
+Aleut,NA06,SCCS123,Aleut,North America,55.0,-162.85,1824,practice,1,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,7,2,5,4,3,1.0,5.0,,35.0,3.0,2,5.0,1.0,none,3
+Andamans,AZ02,SCCS79,Andamanese,Asia,12.0,93.0,1860,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,11,3,2,6.0,1.0,0.0,32.0,6.0,6,,,none,7
+Aranda,OI08,SCCS91,Aranda,Oceania,-24.25,133.5,1896,practice,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,15,5,1,5.0,3.0,78.0,26.0,1.0,7,,,none,4
+Botocudo,SN02,SCCS178,MISSING_Botocudo,South America,-19.0,-42.5,1884,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,,,55.0,4.0,1.0,6,,,none,0
+Chiricahua Apache,NT08,SCCS148,Chiricahua,North America,32.0,-109.5,1870,practice,1,1,1,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,5,2,3,3,1,5.0,3.0,30.0,55.0,2.0,6,,,practice,1
+Comanche,NO06,SCCS147,Comanche,North America,34.0,-101.5,1870,practice,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,8,3,5,6,1,,3.0,,16.0,,6,2.0,,practice,2
+Copper Inuit,ND08,SCCS124,Copper_Eskimo,North America,68.72,-112.53,1915,practice,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,38,6,32,11,2,7.0,2.0,10.0,16.0,5.0,2,,,denied,6
+Enxet and Enlhet,SK15,SCCS182,Lengua,South America,-23.0,-58.5,1889,practice,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,41,2,39,5,1,6.0,5.0,6.0,9.0,,6,,,practice,33
+Eyak,NA07,SCCS130,Eyak,North America,60.5,-145.0,1890,knowledge,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,3,1,1,3,5.0,4.0,,8.0,,2,,,knowledge,1
+Gros Ventre,NQ13,SCCS140,Gros_Ventre,North America,48.0,-108.0,1880,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,6,3,1,3.0,1.0,60.0,26.0,1.0,1,,,none,3
+Hadza,FN11,SCCS9,Hadza,Africa,-3.75,35.18,1930,knowledge,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,1.0,3.0,12.0,50.0,,1,5.0,1.0,none,0
+Haida,NE09,SCCS131,Haida,North America,54.0,-132.5,1875,denied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,3,3.0,3.0,,33.0,4.0,2,,,denied,0
+Ingalik,NA08,SCCS122,Ingalik,North America,62.5,-159.5,1885,practice,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,1,4,2,3,6.0,3.0,8.0,26.0,3.0,6,,,practice,3
+Innu,NH06,SCCS125,Montagnais,North America,50.0,-74.0,1910,knowledge,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,4,6,5,2,7.0,4.0,,32.0,2.0,2,,,denied,3
+Kaska,ND12,SCCS129,Kaska,North America,60.0,-131.0,1900,none,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,2,1,2,5.0,5.0,4.0,24.0,6.0,2,5.0,1.0,none,2
+Klamath,NR10,SCCS138,MISSING_Klamath,North America,42.63,-121.67,1860,practice,1,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,6,4,2,4,2,5.0,3.0,35.0,44.0,2.0,4,,,practice,1
+Kutenai,NF08,SCCS139,MISSING_Kutenai,North America,49.0,-116.67,1890,denied,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,2,3.0,1.0,19.0,26.0,3.0,6,,,denied,0
+Manus,OM06,SCCS96,Manus,Oceania,-2.17,147.17,1929,practice,1,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,11,8,3,4,5,5.0,3.0,4.0,,2.0,4,,,practice,2
+Mbuti,FO04,SCCS13,Mbuti,Africa,1.5,28.33,1950,practice,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,10,7,3,4,1,5.0,1.0,12.0,44.0,6.0,5,,,practice,3
+Mi'kmaq,NJ05,SCCS126,Micmac,North America,46.99,-65.0,1650,practice,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,11,5,6,5,2,5.0,4.0,,8.0,2.0,2,1.0,4.0,practice,1
+Northern Paiute,NR13,SCCS137,Paiute_North,North America,43.5,-119.0,1870,practice,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,2,2,2,2,3.0,5.0,27.0,40.0,3.0,6,,,practice,2
+Nuxalk,NE06,SCCS132,Bellacoola,North America,52.33,-126.5,1880,practice,1,1,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,8,4,4,3,5,5.0,,10.0,32.0,3.0,4,1.0,5.0,practice,4
+Ojibwa,NG06,SCCS127,Saulteaux,North America,52.0,-95.5,1930,practice,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,0,1,41,19,22,15,2,7.0,5.0,4.0,10.0,,6,,,none,3
+Pomo,NS18,SCCS135,MISSING_Pomo_Eastern,North America,39.0,-123.0,1850,practice,1,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,24,9,15,10,3,2.0,5.0,4.0,36.0,,6,1.0,5.0,practice,1
+San,FX10,SCCS2,Kung_Bushmen,Africa,-19.83,20.58,1950,practice,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,81,16,65,21,1,8.0,4.0,19.0,19.0,1.0,2,,,denied,12
+Semang,AN07,SCCS77,Semang,Asia,5.0,101.25,1925,knowledge,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,4,5,2,1,5.0,4.0,2.0,29.0,3.0,6,,,knowledge,2
+Sirionó,SF21,SCCS173,Siriono,South America,-14.5,-63.5,1942,denied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,2,6.0,4.0,38.0,21.0,6.0,6,,,denied,0
+Slavey,ND14,SCCS128,Slave,North America,62.0,-122.0,1940,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,5.0,3.0,4.0,10.0,4.0,2,,,none,1
+Tehuelche,SH05,SCCS185,Tehuelche,South America,-40.5,-68.0,1870,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,7.0,3.0,2.0,4.0,3.0,4,,,none,0
+Tiwi,OI20,SCCS90,Tiwi,Oceania,-11.38,131.0,1929,practice,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,4,3,1,1,1,6.0,1.0,90.0,46.0,1.0,1,2.0,2.0,none,0
+Twana,NR26,SCCS133,MISSING_Twana,North America,47.43,-123.25,1860,practice,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,1,0,6,2,4,2,2,,3.0,,32.0,2.0,4,,,practice,4
+Vedda,AX05,SCCS80,Vedda,Asia,7.75,81.25,1860,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,2,3.0,,0.0,7.0,3.0,3,,,none,1
+Warao,SS18,SCCS162,Warrau,South America,9.08,-62.0,1935,practice,1,1,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,15,3,12,7,2,5.0,1.0,95.0,16.0,,2,1.0,,none,4
+Xokleng,SM03,SCCS180,Aweikoma,South America,-28.0,-50.0,1932,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,5.0,50.0,17.0,6.0,6,1.0,6.0,none,0
+Yahgan,SH06,SCCS186,Yahgan,South America,-55.5,-69.5,1865,practice,1,1,1,0,0,1,1,1,0,1,1,1,1,0,0,0,1,0,13,8,5,3,1,3.0,1.0,10.0,65.0,3.0,2,2.0,6.0,practice,4
+Yokuts,NS29,SCCS136,Yokuts_Lake,North America,35.0,-119.5,1850,knowledge,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3,2,3,5.0,1.0,10.0,21.0,,6,,,knowledge,1
+Yurok,NS31,SCCS134,MISSING_Yurok,North America,41.5,-124.0,1850,practice,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,4,0,3,5,5.0,1.0,8.0,27.0,,1,,,none,0
